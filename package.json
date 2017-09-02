@@ -1,0 +1,9 @@
+{
+    "name": "boilerplate-ar",
+    "version": "1.0.0",
+    "description": "Basic AR App",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.15.4"
+    }
+}
